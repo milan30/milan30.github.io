@@ -1,2 +1,2 @@
-# milan30.github.io
+# Milan Kumar Das
 theme: minima
